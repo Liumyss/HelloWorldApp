@@ -1,0 +1,15 @@
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.deps.json
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.runtimeconfig.json
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.dll
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.pdb
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.AssemblyReference.cache
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfo.cs
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.dll
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/refint/HelloWorldApp.dll
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.pdb
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.genruntimeconfig.cache
+/Users/matthieumacbookair/Documents/BYU-Idaho/Winter 2023/CSE 310/HelloWorldApp/HelloWorldApp/obj/Debug/net6.0/ref/HelloWorldApp.dll
